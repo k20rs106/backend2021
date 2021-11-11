@@ -1,2 +1,20 @@
 /**/
 
+body {
+  background-color: lightgrey;
+}
+
+#button {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 200px;
+  margin-bottom: 10px;
+  font-size: 16pt;
+  height: 4ex;
+  width: 5em;
+  border-radius: 10px;
+  color: white;
+  background-color:yellowgreen;
+}
